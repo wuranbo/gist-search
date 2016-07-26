@@ -1,0 +1,7 @@
+[package]
+name = "gist-search"
+version = "0.1.0"
+authors = ["wuranbo <wuranbo@gmail.com>"]
+
+[dependencies]
+fst = "0.1"
