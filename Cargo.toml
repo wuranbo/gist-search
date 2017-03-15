@@ -5,3 +5,5 @@ authors = ["wuranbo <wuranbo@gmail.com>"]
 
 [dependencies]
 fst = "0.1"
+clippy = "*"
+error-chain = "*"

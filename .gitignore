@@ -15,3 +15,5 @@
 *.swp
 *.tar
 *.log
+.idea
+*.iml
